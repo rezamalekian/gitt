@@ -3,3 +3,4 @@ Second change in file1
 Third change in file1
 Third change in file1
 Update from master branch
+Another update from master
