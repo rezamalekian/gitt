@@ -2,3 +2,4 @@ Initial content for file1
 Second change in file1
 Third change in file1
 Third change in file1
+Update from master branch
